@@ -1,6 +1,6 @@
 # Hachly AI Integration Repository
 
-This repository provides a simple and effective way to integrate the **Hachly AI Sales Agent** into your website. By embedding the provided JavaScript snippet, you can seamlessly add Hachly AI to enhance your website's sales engagement, convert visitors into leads, and deliver a tailored AI-powered customer experience.
+This repository provides a simple and effective way to integrate the **Hachly AI Sales Agent** into your website. By embedding the provided JavaScript snippet, you can seamlessly add [Hachly AI](https://www.hachlyai.com) to enhance your website's sales engagement, convert visitors into leads, and deliver a tailored AI-powered customer experience.
 
 ## Features
 
@@ -15,6 +15,8 @@ This repository provides a simple and effective way to integrate the **Hachly AI
 2. **Replace Your Key**: Add your unique key in place of `YOUR-CODE-SHOULD-BE-HERE`.
 3. **Deploy to Your Website**: Add the script to your website's HTML, typically just before the closing `</body>` tag.
 4. **Enjoy Hachly AI**: Start engaging with your visitors using the powerful Hachly AI Sales Agent.
+
+For more detailed documentation and advanced customization options, visit the [Hachly AI Documentation](https://www.hachlyai.com/docs).
 
 ## Example Usage
 
